@@ -1,0 +1,94 @@
+commit e56e151590a46bf81f8e6fc5cf0044ec2a5985e5
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 15:57:55 2023 +0530
+
+    Readding file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..684fe04
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Google SDE
+
+commit 8e93de9b41b6ed318b40ddf10dcaf75cd2ddad42
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 15:52:41 2023 +0530
+
+    Deleted file2
+
+diff --git a/file1.txt b/file1.txt
+index 013233b..e55cb64 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Gajanan CSE
+ haldirams 
+ Let me eat your pancreas
++Red
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 684fe04..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Google SDE
+
+commit 8f0e891fa55e858a21c4819ea14cb24c849b77be
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 15:46:50 2023 +0530
+
+    commited file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..684fe04
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Google SDE
+
+commit 794c6c176c26f81bb7863768194e376c54239d03
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 09:18:31 2023 +0530
+
+    Now has my favourite restarant and movie
+
+diff --git a/file1.txt b/file1.txt
+index bf2b84d..013233b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ Gajanan CSE
++haldirams 
++Let me eat your pancreas
+
+commit de6d5424150893d4915a3591610ad81dd7315765
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 09:16:51 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 7bb0032..bf2b84d 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Gajanan BT21CSE079
++Gajanan CSE
+
+commit eee41cd4e906cf6f115f617df8538694f853d53b
+Author: Gajanan <gajanansapsod@gmail.com>
+Date:   Tue Mar 21 09:11:38 2023 +0530
+
+    Committing a new file with my
+    name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..7bb0032
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Gajanan BT21CSE079
